@@ -1,0 +1,18 @@
+DEPARTMENTS
+1. Engineering
+2. Finance
+3. Legal
+4. Sales
+- "We want to be able to Add a Department if necessary"
+----------------------------------------------------
+Roles
+1. Sales Lead (Sales)
+2. Salesperson (Sales)
+3. Lead Engineering (Engineering)
+4. Software Engineering (Engineering)
+5. Account Manager (Finance)
+6. Accountant (Finance)
+7. Legal Team Lead (Legal)
+8. Lawyer (Legal)
+- "We want to be able to Add a Role if necessary"
+---------------------------------------------------
