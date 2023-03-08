@@ -21,7 +21,7 @@ CREATE TABLE employee (
     first_name VARCHAR(30),
     last_name VARCHAR(30),
     department_title VARCHAR(30),
-    department_id INT,
+    -- department_id INT,
     roles_id INT,
     manager_id INT,
     FOREIGN KEY (roles_id)
