@@ -1,15 +1,15 @@
 # Employee Tracker - MySQL
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)<br>
-Table Of Contents
-- [About](#about)
-- [Description](#description)
-- [Future Development](#future-development)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributers](#contributers)
-- [Contact](#contact)
-- [Licence](#licence)
-- [Links](#links)
+Table Of Contents<br>
+ [About](#about)<br>
+ [Description](#description)<br>
+ [Future Development](#future-development)<br>
+ [Installation](#installation)<br>
+ [Usage](#usage)<br>
+ [Contributers](#contributers)<br>
+ [Contact](#contact)<br>
+ [Licence](#licence)<br>
+ [Links](#links)<br>
 
 ## About
 This Employee Tracker app is designed to store employee and department data within a database.
@@ -21,6 +21,12 @@ Employee Tracker provides a solution for businesses and other organisations to s
  - departments within a company
  - Roles information
 This application has been created and designed around the use of technologies frequently used in a wide range of fields.
+## Technologies Used
+ - MySQL
+ - Javascript
+ - Dotenv
+ - Inquirer
+ - Console.table
 ## Future Development
 Future developments can include but not limited to:
 - Upscaling to hold larger amounts of data
