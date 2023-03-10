@@ -3,7 +3,7 @@ CREATE DATABASE employeeTracker;
 USE employeeTracker;
 
 CREATE TABLE department (
-    id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+    id INT NOT NULL AUTO_INCREMENT PRIMARY KEY ,
     title VARCHAR(30)
 );
 
@@ -21,13 +21,15 @@ CREATE TABLE employee (
     first_name VARCHAR(30),
     last_name VARCHAR(30),
     department_title VARCHAR(30),
-    -- department_id INT,
+    department_id INT,
+    roles_title VARCHAR(100),
     roles_id INT,
     manager_id INT,
+     FOREIGN KEY (department_id)
+    REFERENCES department(id),
     FOREIGN KEY (roles_id)
-    REFERENCES roles(id),
-    FOREIGN KEY (department_id)
-    REFERENCES department(id)
+    REFERENCES roles(id)
+   
 );
 
 CREATE TABLE manager (
