@@ -1,4 +1,15 @@
 # Employee Tracker - MySQL
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)<br>
+Table Of Contents
+- [About](#about)
+- [Description](#description)
+- [Future Development](#future-development)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributers](#contributers)
+- [Contact](#contact)
+- [Licence](#licence)
+- [Links](#links)
 
 ## About
 This Employee Tracker app is designed to store employee and department data within a database.
@@ -68,7 +79,7 @@ GitHub Profile: [Zim40](https://github.com/Zim40).
 ## Contact
 If you would like to contact me please [send me an email](mailto:michaelm810129@gmail.com).
 ## Licence
-MIT Licence
-## Demo
+MIT Licence for more information [Click this Link]((https://opensource.org/licenses/MIT))
+## Links
+[Video Demo](https://drive.google.com/file/d/1b3fhHvs2aZmaJPOCauSwlmHeVE7L4xte/view)
 
-## Screenshot
